@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"hadassah","l":"BadInputException"},{"p":"hadassah","l":"Main"},{"p":"hadassah","l":"ReadFile"},{"p":"hadassah","l":"UpdateUrlSize"},{"p":"hadassah","l":"Url"},{"p":"hadassah","l":"UrlSizeCalculation"},{"p":"hadassah","l":"WriteFile"}]

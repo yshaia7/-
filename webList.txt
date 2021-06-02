@@ -1,0 +1,20 @@
+
+http://this_url_does_not_exists
+
+https://docs.oracle.com/en/java/javase/11/docs/api/index.html
+http://cs.hac.ac.il
+
+this is not a valid url
+
+https://www.w3schools.com/java/java_files_read.asp
+
+http://www.oracle.com
+
+https://www.guru99.com/buffered-reader-in-java.html
+
+SDFFS
+https://stackoverflow.com/questions/9044472/how-to-correct-indentation-in-intellij
+https://docs.oracle.com/javase/7/docs/api/java/net/MalformedURLException.html
+https://stackoverflow.com/questions/9044472/how-to-correct-indentation-in-intellijhttps://stackoverflow.com/questions/9044472/how-to-correct-indentation-in-intellij
+
+https://www.guru99.com/buffered-reader-in-java.html https://www.guru99.com/buffered-reader-in-java.html
